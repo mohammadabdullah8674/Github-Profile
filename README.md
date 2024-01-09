@@ -13,7 +13,13 @@ This project is a solution to the GitHub Profile challenge from devchallenges.io
 
 ## Demo
 
-[Live Demo](#) <!-- Add a link to your live demo once it's hosted -->
+[Live Demo](https://github-profile-dev-challenges.netlify.app/) <!-- Add a link to your live demo once it's hosted -->
+
+## Screenshots
+
+
+![Screenshot 1](./public/screenshots/1.png)
+![Screenshot 2](./public/screenshots/2.png)
 
 ## Features
 
