@@ -13,8 +13,7 @@ This project is a solution to the GitHub Profile challenge from devchallenges.io
 
 ## Demo
 
-[Live Demo](https://github-profile-dev-challenges.netlify.app/) <!-- Add a link to your live demo once it's hosted -->
-
+[Live Demo](https://github-profile-dev-challenges.netlify.app/) 
 ## Screenshots
 
 
